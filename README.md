@@ -1,18 +1,16 @@
 # Summary
 
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
+This is a small treebank for Modern Standard Assyrian.It is the first ever treebank to be built for Assyrian. The treebank consists of 57 manually annotated sentences.
 
 # Introduction
 
-...
+The treebank is a collection of sentences randomly collected from different sources, such as textbooks, grammar books and a translation of a short story.
+Since the treebank is a small one, all the data is in the test file. We are hoping that continuous work to increase the size of the treebank will provide more data for training.
 
 # Acknowledgments
 
-...
-
 ## References
 
-* (citation)
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
