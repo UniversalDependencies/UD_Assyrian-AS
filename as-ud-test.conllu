@@ -297,7 +297,7 @@
 9	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = as-test-31
-# text = ܐܵܗܵܐ ܫܸܢ̄ܬܝܼ ܐ̄ܚܵܪܵܝܬܵܐ ܝܠܵܗܿ ܕ ܒܸܩܪܵܝܵܐ ܝܘܸܢ ܓܵܘ ܡܼܿܕܪܼܿܫܬܵܐ ܕ ܢܨܝܼܒ̣ܝܼܢ ܒܸ ܡܕܝܼܢ̄ܬܐ ܕ ܐܼܿܪܒܹܝܠ، ܘ ܒܫܸܢ̄ܬܵܐ ܕ ܒܸܐܬܵܝܵܐ ܝܠܵܗܿ، ܘ ܒܚܲܝܠܵܐ ܕ ܡܵܪܝܵܐ ܒܸܬ ܥܵܒ̣ܪܸܢ ܓܵܘ ܒܹܝܬܨܵܘܒܵܐ ܕ ܐܵܫܘܿܪ ܒܸܡܕܝܼܢ̄ܬܵܐ ܕܢܝܼܢܘܹܐ .
+# text = ܐܵܗܵܐ ܫܸܢ̄ܬܝܼ ܐ̄ܚܵܪܵܝܬܵܐ ܝܠܵܗܿ ܕ ܒܸܩܪܵܝܵܐ ܝܘܸܢ ܓܵܘ ܡܼܿܕܪܼܿܫܬܵܐ ܕ ܢܨܝܼܒ̣ܝܼܢ ܒܸ ܡܕܝܼܢ̄ܬܐ ܕ ܐܼܿܪܒܹܝܠ ܘ ܒܫܸܢ̄ܬܵܐ ܕ ܒܸܐܬܵܝܵܐ ܝܠܵܗܿ، ܘ ܒܚܲܝܠܵܐ ܕ ܡܵܪܝܵܐ ܒܸܬ ܥܵܒ̣ܪܸܢ ܓܵܘ ܒܹܝܬܨܵܘܒܵܐ ܕ ܐܵܫܘܿܪ ܒܸܡܕܝܼܢ̄ܬܵܐ ܕܢܝܼܢܘܹܐ .
 1	ܐܵܗܵܐ	ܐܵܗܵܐ	DET	_	Number=Sing|PronType=Dem	2	det	_	_
 2	ܫܸܢ̄ܬܝܼ	ܫܸܢ̄ܬܐ	NOUN	_	Gender=Fem|Number=Sing|Poss=Yes	6	advcl	_	_
 3	ܐ̄ܚܵܪܵܝܬܵܐ	ܐ̄ܚܵܪܵܝܐ	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
@@ -470,21 +470,21 @@
 # sent_id = as-test-48
 # text = ܒܘܼܬ ܕܐܵܗܵܐ ܓ̰ܡܸܥܠܗܘܿܢ ܠܚܕܵܕܸܐ ܘܐܡܸܪܗܘܿܢ : ܡܘܿܕܝܼ ܥܵܒ̣ܕܲܚ ܕܥܵܪܩܲܚ ܡ̣ܢ ܕܲܪܣ ܕܐܸܕܝܘܿܡ ?
 1	ܒܘܼܬ	ܒܘܼܬ	ADP	_	_	3	case	_	_
-2	ܕ	ܕ	SCONJ	_	_	3	mark	_	_
+2	ܕ	ܕ	SCONJ	_	_	3	mark	_	SpaceAfter=No
 3	ܐܵܗܵܐ	ܐܵܗܵܐ	PRON	_	_	4	advcl	_	_
 4	ܓ̰ܡܸܥܠܗܘܿܢ	ܓ̰ܡܸܥ	VERB	_	_	13	advcl	_	_
-5	ܠ	ܠ	ADP	_	_	6	case	_	_
+5	ܠ	ܠ	ADP	_	_	6	case	_	SpaceAfter=No
 6	ܚܕܵܕܸܐ	ܚܕܵܕܸܐ	PRON	_	_	4	obl	_	_
-7	ܘ	ܘ	CCONJ	_	_	8	cc	_	_
+7	ܘ	ܘ	CCONJ	_	_	8	cc	_	SpaceAfter=No
 8	ܐܡܸܪܗܘܿܢ	ܐܡܸܪ	VERB	_	_	4	conj	_	_
 9	:	:	PUNCT	_	_	13	punct	_	_
 10	ܡܘܿܕܝܼ	ܡܘܿܕܝܼ	ADV	_	_	11	advmod	_	_
 11	ܥܵܒ̣ܕܲܚ	ܥܵܒ̣ܕ	VERB	_	_	13	advcl	_	_
-12	ܕ	ܕ	PART	_	_	13	mark	_	_
+12	ܕ	ܕ	PART	_	_	13	mark	_	SpaceAfter=No
 13	ܥܵܪܩܲܚ	ܥܵܪܩ	VERB	_	_	0	root	_	_
 14	ܡ̣ܢ	ܡ̣ܢ	ADP	_	_	15	case	_	_
 15	ܕܲܪܣ	ܕܲܪܣ	NOUN	_	_	13	obl	_	_
-16	ܕ	ܕ	DET	_	_	17	det	_	_
+16	ܕ	ܕ	DET	_	_	17	det	_	SpaceAfter=No
 17	ܐܸܕܝܘܿܡ	ܐܸܕܝܘܿܡ	NOUN	_	_	15	nmod	_	_
 18	?	?	PUNCT	_	_	13	punct	_	_
 
@@ -492,11 +492,11 @@
 # text = ܬܸܝܡܘܿܢ ܦܵܠܜܲܚ ܘܠܵܐ ܐܵܬܲܚ ܗܲܠ ܕܙܵܓܵܐ ܡܵܚܸܐ .
 1	ܬܸܝܡܘܿܢ	ܐܵܬܹܐ	VERB	_	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	_
 2	ܦܵܠܜܲܚ	ܦܵܠܜ	VERB	_	Number=Plur|Person=1	1	xcomp	_	_
-3	ܘ	ܘ	CCONJ	_	_	5	cc	_	_
+3	ܘ	ܘ	CCONJ	_	_	5	cc	_	SpaceAfter=No
 4	ܠܵܐ	ܠܵܐ	PART	_	_	5	advmod	_	_
 5	ܐܵܬܲܚ	ܐܵܬܲ	VERB	_	Number=Plur|Person=1	2	conj	_	_
 6	ܗܲܠ	ܗܲܠ	SCONJ	_	_	9	mark	_	_
-7	ܕ	ܕ	PART	_	_	9	mark	_	_
+7	ܕ	ܕ	PART	_	_	9	mark	_	SpaceAfter=No
 8	ܙܵܓܵܐ	ܙܵܓܵܐ	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	_
 9	ܡܵܚܸܐ	ܡܵܚܸܐ	VERB	_	Gender=Masc|Number=Sing|Person=3	5	advcl	_	_
 10	.	.	PUNCT	_	_	1	punct	_	_
@@ -531,7 +531,7 @@
 # sent_id = as-test-52
 # text = ܐܵܣܩܸܢ ܠܐܵܗܵܐ ܐܝܼܠܵܢܵܐ ܕ ܚܲܒܘܼܫܵܐ ܩܵܘܡܵܐ ܕ ܡܼܢ ܬܵܡܵܐ ܡܵܨܸܢ ܚܵܙܸܢܗ݇ܘܿܢ .
 1	ܐܵܣܩܸܢ	ܐܵܣܩ	VERB	_	Gender=Masc|Number=Sing|Person=1|Tense=Pres	0	root	_	_
-2	ܠ	ܠ	ADP	_	_	4	case	_	_
+2	ܠ	ܠ	ADP	_	_	4	case	_	SpaceAfter=No
 3	ܐܵܗܵܐ	ܐܵܗܵܐ	DET	_	Number=Sing	4	det	_	_
 4	ܐܝܼܠܵܢܵܐ	ܐܝܼܠܵܢܵܐ	NOUN	_	Number=Sing	1	obl	_	_
 5	ܕ	ܕ	ADP	_	_	6	case	_	_
@@ -571,7 +571,7 @@
 4	ܘ	ܘ	CCONJ	_	_	5	cc	_	_
 5	ܓܘܼܒܹܐ	ܓܒܹܐ	VERB	_	_	1	conj	_	_
 6	ܠܹܗ	ܠܹܗ	PRON	_	Gender=Masc	5	iobj	_	_
-7	ܠ	ܠ	ADP	_	_	8	case	_	_
+7	ܠ	ܠ	ADP	_	_	8	case	_	SpaceAfter=No
 8	ܚܲܒܘܼܫܵܐ	ܚܲܒܘܼܫܵܐ	NOUN	_	_	5	obj	_	_
 9	ܘ	ܘ	CCONJ	_	_	10	cc	_	_
 10	ܫܘܼܪܹܐ	ܫܘܼܪܹܐ	VERB	_	_	1	conj	_	_
