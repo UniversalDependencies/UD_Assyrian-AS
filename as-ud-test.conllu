@@ -132,9 +132,9 @@
 10	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = as-test-14
-# text = ܛܝܼܢܵܐ ܡܘܼܙܵܓ̣ܵܐ ܝܠܹܗ ܕ ܥܹܦܪܵܐ ܘ ܡܝܼܵܐ .
+# text = ܛܝܼܢܵܐ ܡܘܼܙܵܓܹܐ ܝܠܹܗ ܕ ܥܹܦܪܵܐ ܘ ܡܝܼܵܐ .
 1	ܛܝܼܢܵܐ	ܛܝܼܢܵܐ	NOUN	_	Gender=Masc|Number=Sing	2	nsubj	_	_
-2	ܡܘܼܙܵܓ̣ܵܐ	ܡܘܼܙܵܓ̣ܵܐ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+2	ܡܘܼܙܵܓܹܐ	ܡܘܼܙܵܓܹܐ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 3	ܝܠܹܗ	ܗܵܘܹܐ	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	Root=ܗܘܐ
 4	ܕ	ܕ	ADP	_	_	5	case	_	_
 5	ܥܹܦܪܵܐ	ܥܹܦܪܵܐ	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
