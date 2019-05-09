@@ -346,9 +346,9 @@
 
 # sent_id = as-test-33
 # text = ܪܵܒܵܐ ܚܕܸܐܠܝܼ ܒܝܼܵܗܿ .
-1	ܪܵܒܵܐ	ܪܵܒܵܐ 	ADV	_	_	2	advmod	_	_
+1	ܪܵܒܵܐ	ܪܵܒܵܐ	ADV	_	_	2	advmod	_	_
 2	ܚܕܸܐܠܝܼ	ܚܕܸܐ	VERB	_	Number=Sing|Person=1	0	root	_	_
-3	ܒܝܼܵܗܿ ܒܝܼܵܗܿ	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+3	ܒܝܼܵܗܿ	ܒܝܼܵܗܿ	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|ProneType=Prs	2	obj	_	_
 4	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = as-test-34
