@@ -119,7 +119,7 @@
 6	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = as-test-13
-# text = ܐܵܢܵܐ ܐܵܬ̣ܘܿܪܵܝܬ̣ܵܐ ܝ݇ܘܸܢ , ܐܵܢܵܐ ܡ̣ܢ ܒܢܲܝ̈ ܬܗܪܵܢ ܝܼܘܵܢ .
+# text = ܐܵܢܵܐ ܐܵܬ̣ܘܿܪܵܝܬ̣ܵܐ ܝܼܘܵܢ , ܐܵܢܵܐ ܡ̣ܢ ܒܢܲܝ̈ ܬܗܪܵܢ ܝܼܘܵܢ .
 1	ܐܵܢܵܐ	ܐܵܢܵܐ	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	ܐܵܬ̣ܘܿܪܵܝܬ̣ܵܐ	ܐܵܬ̣ܘܿܪܵܝܐ	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
 3	ܝܼܘܵܢ	ܗܵܘܹܐ	AUX	_	Gender=Fem|Number=Sing|Person=1	2	cop	_	Root=ܗܘܐ
@@ -132,12 +132,12 @@
 10	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = as-test-14
-# text = ܛܝܼܢܵܐ ܡܘܼܙܵܓ̣ܵܐ ܝܠܹܗ ܕ ܥܵܦܪܵܐ ܘ ܡܝܼܵܐ .
+# text = ܛܝܼܢܵܐ ܡܘܼܙܵܓ̣ܵܐ ܝܠܹܗ ܕ ܥ̣̇ܦܪܵܐ ܘ ܡܝܼܵܐ .
 1	ܛܝܼܢܵܐ	ܛܝܼܢܵܐ	NOUN	_	Gender=Masc|Number=Sing	2	nsubj	_	_
 2	ܡܘܼܙܵܓ̣ܵܐ	ܡܘܼܙܵܓ̣ܵܐ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 3	ܝܠܹܗ	ܗܵܘܹܐ	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	Root=ܗܘܐ
 4	ܕ	ܕ	ADP	_	_	5	case	_	_
-5	ܥܵܦܪܵܐ	ܥܵܦܪܵܐ	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	ܥ̣̇ܦܪܵܐ	ܥ̣̇ܦܪܵܐ	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
 6	ܘ	ܘ	CCONJ	_	_	5	cc	_	_
 7	ܡܝܼܵܐ	ܡܝܼܵܐ	NOUN	_	_	5	conj	_	_
 8	.	.	PUNCT	_	_	2	punct	_	_
