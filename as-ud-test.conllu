@@ -48,7 +48,7 @@
 4	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = as-test-06
-# text = ܒܝܕܥܝܐ ܝܘܸܢ ܦܫܡܬܘܟ ܟܠܗ ܝܠܗ ܒܘܕ ܓܡܝܘܟ ܘ ܬܓܪܘܬܘܟ .
+# text = ܒܝܕܥܝܐ ܝܘܸܢ ܦܫܡܬܘܟ ܟܠܗ ܝܼܠܵܗܿ ܒܘܕ ܓܵܡܝܼ̈ܘܼܟ ܘ ܬܲܓܵܪܘܼܬܘܼܟ .
 1	ܒܝܕܥܝܐ	ܝܲܕܥܹܐ	VERB	_	Mood=Ind|Tense=Pres	0	root	_	_
 2	ܝܘܸܢ	ܗܵܘܹܐ	AUX	_	Gender=Masc|Number=Sing|Person=1|Tense=Pres	1	aux	_	Root=ܗܘܐ
 3	ܦܫܡܬܘܟ	ܦܫܡܬܐ	NOUN	_	Number=Sing|Person=2	7	nsubj	_	_
@@ -68,7 +68,7 @@
 4	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = as-test-08
-# text = ܕ ܬܲܚܡܲܢܝܵܬܸ̈ܗ ܪܒܐ ܢܝܚܐ ܝܢܐ ܡ̣ܢ ܗ̇ܘ ܓܢܒܐ .
+# text = ܕ ܬܲܚܡܲܢܝܵܬܸ̈ܗ ܪܵܒܵܐ ܢܝܼܚܸܐ ܝܢܵܐ ܡ̣ܢ ܗ̇ܘ ܓܸܢܒܵܐ .
 1	ܕ	ܕ	SCONJ	_	_	4	mark	_	_
 2	ܬܲܚܡܲܢܝܵܬܸ̈ܗ	ܬܲܚܡܲܢܬܐ	NOUN	_	Number=Plur	4	nsubj	_	_
 3	ܪܵܒܵܐ	ܪܵܒܵܐ	ADV	_	_	4	advmod	_	_
