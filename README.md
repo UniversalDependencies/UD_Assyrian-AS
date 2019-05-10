@@ -16,7 +16,7 @@ Building the Uppsala Assyrian Treebank was a project conducted by Mary Yako at U
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
-Data available since: UD v2.5
+Data available since: UD v2.4
 License: CC BY-SA 4.0
 Includes text: yes
 Genre: nonfiction news
