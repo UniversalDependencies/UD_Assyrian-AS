@@ -285,11 +285,11 @@
 9	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = as-test-30
-# text = ܗܵܘ̇ ܕ ܙܵܪܸܥ ܜܵܒ̣ܬ̣ܵܐ : ܒ ܚܵܨܸܕ ܫܠܵܡܵܐ .
+# text = ܗܵܘ̇ ܕ ܙܵܪܸܥ ܜܵܒ̣ܬܐ : ܒ ܚܵܨܸܕ ܫܠܵܡܵܐ .
 1	ܗܵܘ̇	ܗܵܘ̇	PRON	_	Case=Nom|Person=3|PronType=Prs	7	nsubj	_	_
 2	ܕ	ܕ	PRON	_	PronType=Int	3	nsubj	_	_
 3	ܙܵܪܸܥ	ܙܵܪܸܥ	VERB	_	Gender=Masc|Number=Sing|Person=3	1	acl:relcl	_	_
-4	ܜܵܒ̣ܬ̣ܵܐ	ܜܵܒ̣ܬ̣ܵܐ	NOUN	_	Gender=Fem	3	obj	_	_
+4	ܜܵܒ̣ܬܐ	ܜܵܒ̣ܬܐ	NOUN	_	Gender=Fem	3	obj	_	_
 5	:	:	PUNCT	_	_	7	punct	_	_
 6	ܒ	ܒ	PART	_	_	7	aux	_	_
 7	ܚܵܨܸܕ	ܚܵܨܸܕ	VERB	_	Gender=Masc|Number=Sing|Person=3	0	root	_	_
