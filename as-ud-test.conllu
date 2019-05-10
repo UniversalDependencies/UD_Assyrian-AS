@@ -366,8 +366,8 @@
 4	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = as-test-36
-# text = ܐܵܕܝܼܵܐ ܐܵܢܝܼ ܠܸܐ ܝ݇ܢܵܐ ܓܵܘ ܒܹܝܬ̣ ܟܪ̈ܝܼܗܸܐ .
-1	ܐܵܕܝܼܵܐ	ܐܵܕܝܼܵܐ	ADV	_	_	4	advmod	_	_
+# text = ܐܵܕܝܼܐ ܐܵܢܝܼ ܠܸܐ ܝ݇ܢܵܐ ܓܵܘ ܒܹܝܬ̣ ܟܪ̈ܝܼܗܸܐ .
+1	ܐܵܕܝܼܐ	ܐܵܕܝܼܐ	ADV	_	_	4	advmod	_	_
 2	ܐܵܢܝܼ	ܐܵܢܝܼ	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	_
 3	ܠܸܐ	ܠܸܐ	PART	_	_	4	advmod	_	_
 4	ܝ݇ܢܵܐ	ܗܵܘܹܐ	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	Root=ܗܘܐ
