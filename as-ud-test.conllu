@@ -318,9 +318,9 @@
 18	ܫܸܢ̄ܬܵܐ	ܫܸܢ̄ܬܵܐ	NOUN	_	Gender=Fem|Number=Sing	20	nsubj	_	_
 19	ܕ	ܕ	PART	_	_	20	mark	_	_
 20	ܒܸܐܬܵܝܵܐ	ܐܬܝܐ	VERB	_	Tense=Pres|VerbForm=Part	28	advcl	_	_
-21	ܝܠܵܗܿ	ܗܵܘܹܐ	AUX	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	Root=ܗܘܐ|SpaceAfter=No
+21	ܝܠܵܗܿ	ܗܵܘܹܐ	AUX	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	Root=ܗܘܐ
 22	ܘ	ܘ	CCONJ	_	_	20	cc	_	_
-23	ܒ	ܒ	ADP	_	_	24	case	_	_
+23	ܒ	ܒ	ADP	_	_	24	case	_	SpaceAfter=No
 24	ܚܲܝܠܵܐ	ܚܲܝܠܵܐ	NOUN	_	Gender=Masc|Number=Sing	20	advcl	_	_
 25	ܕ	ܕ	PART	_	_	26	case	_	_
 26	ܡܵܪܝܵܐ	ܡܵܪܝܵܐ	PROPN	_	Gender=Masc|Number=Sing	24	nmod	_	_
