@@ -57,7 +57,7 @@
 6	ܒܘܕ	ܒܘܕ	ADP	_	_	7	case	_	_
 7	ܓܵܡܝܼ̈ܘܼܟ	ܓܵܡܝܼ	NOUN	_	Number=Plur|Person=2|Poss=Yes	1	ccomp	_	_
 8	ܘ	ܘ	CCONJ	_	_	9	cc	_	_
-9	ܼܬܲܓܵܪܘܼܬܘܼܟ	ܬܲܓܵܪܘܼܬܵܐ	NOUN	_	Person=2|Poss=Yes	7	conj	_	_
+9	ܬܲܓܵܪܘܼܬܘܼܟ	ܬܲܓܵܪܘܼܬܵܐ	NOUN	_	Person=2|Poss=Yes	7	conj	_	_
 10	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = as-test-07
