@@ -330,9 +330,9 @@
 30	ܒܹܝܬܨܵܘܒܵܐ	ܒܹܝܬܨܵܘܒܵܐ	NOUN	_	Number=Sing	28	obl	_	_
 31	ܕ	ܕ	PART	_	_	32	case	_	_
 32	ܐܵܫܘܼܪ	ܐܵܫܘܼܪ	PROPN	_	Gender=Masc|Number=Sing	30	nmod	_	_
-33	ܒܸ	ܒܸ	ADP	_	_	34	case	_	_
+33	ܒܸ	ܒܸ	ADP	_	_	34	case	_	SpaceAfter=No
 34	ܡܕܝܼܢ̄ܬܵܐ	ܡܕܝܼܢ̄ܬܵܐ	NOUN	_	Gender=Fem|Number=Sing	32	nmod	_	_
-35	ܕ	ܕ	ADP	_	_	36	case	_	_
+35	ܕ	ܕ	ADP	_	_	36	case	_	SpaceAfter=No
 36	ܢܝܼܢܘܹܐ	ܢܝܼܢܘܹܐ	PROPN	_	Gender=Fem|Number=Sing	34	nmod	_	_
 37	.	.	PUNCT	_	_	6	punct	_	_
 
