@@ -297,7 +297,7 @@
 9	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = as-test-31
-# text = ܐܵܗܵܐ ܫܸܢ̄ܬܝܼ ܐ̄ܚܵܪܵܝܬܵܐ ܝܠܵܗܿ ܕ ܒܸܩܪܵܝܵܐ ܝܘܸܢ ܓܵܘ ܡܼܿܕܪܼܿܫܬܵܐ ܕ ܢܨܝܼܒ̣ܝܼܢ ܒܸ ܡܕܝܼܢ̄ܬܐ ܕ ܐܼܿܪܒܹܝܠ ܘ ܒܫܸܢ̄ܬܵܐ ܕ ܒܸܐܬܵܝܵܐ ܝܠܵܗܿ ܘ ܒܚܲܝܠܵܐ ܕ ܡܵܪܝܵܐ ܒܸܬ ܥܵܒ̣ܪܸܢ ܓܵܘ ܒܹܝܬܨܵܘܒܵܐ ܕ ܐܵܫܘܼܪ ܒܸܡܕܝܼܢ̄ܬܵܐ ܕܢܝܼܢܘܹܐ .
+# text = ܐܵܗܵܐ ܫܸܢ̄ܬܝܼ ܐ̄ܚܵܪܵܝܬܵܐ ܝܠܵܗܿ ܕ ܒܸܩܪܵܝܵܐ ܝܘܸܢ ܓܵܘ ܡܼܿܕܪܼܿܫܬܵܐ ܕ ܢܨܝܼܒ̣ܝܼܢ ܒܸ ܡܕܝܼܢ̄ܬܐ ܕ ܐܼܿܪܒܹܝܠ ܘ ܒܫܸܢ̄ܬܵܐ ܕ ܒܸܐܬܵܝܵܐ ܝܠܵܗܿ ܘ ܒܚܲܝܠܵܐ ܕ ܡܵܪܝܵܐ ܒܸܬ ܥܵܒ̣ܪܸܢ ܓܵܘ ܒܹܝܬܨܵܘܒܵܐ ܕ ܐܵܫܘܼܪ ܒܸܡܕܝܼܢ̄ܬܵܐ ܕܢܝܼܢܘܹܐ .
 1	ܐܵܗܵܐ	ܐܵܗܵܐ	DET	_	Number=Sing|PronType=Dem	2	det	_	_
 2	ܫܸܢ̄ܬܝܼ	ܫܸܢ̄ܬܐ	NOUN	_	Gender=Fem|Number=Sing|Poss=Yes	6	advcl	_	_
 3	ܐ̄ܚܵܪܵܝܬܵܐ	ܐ̄ܚܵܪܵܝܐ	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
@@ -306,13 +306,13 @@
 6	ܒܸܩܪܵܝܵܐ	ܩܪܝܐ	VERB	_	Tense=Pres|VerbForm=Part	0	root	_	_
 7	ܝܘܸܢ	ܗܵܘܹܐ	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
 8	ܓܵܘ	ܓܵܘ	ADP	_	_	9	case	_	_
-9	ܡܼܿܕܪܼܿܫܬܵܐ	ܡܼܿܕܪܼܿܫܬܵܐ	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+9	ܡܼܿܕܪܼܿܫܬܵܐ	ܡܼܿܕܪܼܿܫܬܵܐ	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
 10	ܕ	ܕ	PART	_	_	11	case	_	_
 11	ܢܨܝܼܒ̣ܝܼܢ	ܢܨܝܼܒ̣ܝܼܢ	PROPN	_	Number=Sing	9	nmod	_	_
 12	ܒܸ	ܒܸ	ADP	_	_	13	case	_	_
 13	ܡܕܝܼܢ̄ܬܐ	ܡܕܝܼܢ̄ܬܐ	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	_
 14	ܕ	ܕ	PART	_	_	15	case	_	_
-15	ܐܼܿܪܒܹܝܠ	ܐܼܿܪܒܹܝܠ	PROPN	_	Number=Sing	13	nmod	_	_
+15	ܐܼܿܪܒܹܝܠ	ܐܼܿܪܒܹܝܠ	PROPN	_	Number=Sing	13	nmod	_	_
 16	ܘ	ܘ	CCONJ	_	_	28	cc	_	_
 17	ܒ	ܒ	ADP	_	_	18	case	_	SpaceAfter=No
 18	ܫܸܢ̄ܬܵܐ	ܫܸܢ̄ܬܵܐ	NOUN	_	Gender=Fem|Number=Sing	20	nsubj	_	_
@@ -337,9 +337,9 @@
 37	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = as-test-32
-# text = ܩܲܒܸܠ ܫܠܵܡܝܼ̈ ܥܲܡ ܚܘܼܒܝܼ .
+# text = ܩܲܒܸܠ ܫܠܵܡܝܼ̈ ܥܲܡ ܚܘܼܒܝܼ .
 1	ܩܲܒܸܠ	ܩܲܒܸܠ	VERB	_	Mood=Imp	0	root	_	_
-2	ܫܠܵܡܝܼ̈	ܫܠܵܡܐ	NOUN	_	Poss=Yes	1	obj	_	_
+2	ܫܠܵܡܝܼ̈	ܫܠܵܡܐ	NOUN	_	Poss=Yes	1	obj	_	_
 3	ܥܲܡ	ܥܲܡ	ADP	_	_	4	case	_	_
 4	ܚܘܼܒܝܼ	ܚܘܼܒܐ	NOUN	_	Poss=Yes	2	nmod	_	_
 5	.	.	PUNCT	_	_	1	punct	_	_
@@ -352,9 +352,9 @@
 4	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = as-test-34
-# text = ܐܵܢܝܼ ܟܲܫܝܼܕܸ̈ܐ ܝ݇ܢܵܐ ?
+# text = ܐܵܢܝܼ ܟܲܫܝܼܕܸ̈ܐ ܝ݇ܢܵܐ ?
 1	ܐܵܢܝܼ	ܐܵܢܝܼ	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
-2	ܟܲܫܝܼܕܸ̈ܐ	ܟܲܫܝܼܕ̈ܐ	ADJ	_	Number=Plur	0	root	_	_
+2	ܟܲܫܝܼܕܸ̈ܐ	ܟܲܫܝܼܕ̈ܐ	ADJ	_	Number=Plur	0	root	_	_
 3	ܝ݇ܢܵܐ	ܗܵܘܹܐ	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	Root=ܗܘܐ
 4	?	?	PUNCT	_	_	2	punct	_	_
 
@@ -384,11 +384,11 @@
 4	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = as-test-38
-# text = ܐܵܢܝܼ ܠܸܐ ܝ݇ܢܵܐ ܓܒ̣ܝܼܪܸ̈ܐ .
+# text = ܐܵܢܝܼ ܠܸܐ ܝ݇ܢܵܐ ܓܒ̣ܝܼܪܸ̈ܐ .
 1	ܐܵܢܝܼ	ܐܵܢܝܼ	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
 2	ܠܸܐ	ܠܸܐ	PART	_	_	4	advmod	_	_
 3	ܝ݇ܢܵܐ	ܗܵܘܹܐ	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	Root=ܗܘܐ
-4	ܓܒ̣ܝܼܪܸ̈ܐ	ܓܒ̣ܝܼܪ̈ܐ	ADJ	_	Number=Plur	0	root	_	_
+4	ܓܒ̣ܝܼܪܸ̈ܐ	ܓܒ̣ܝܼܪ̈ܐ	ADJ	_	Number=Plur	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = as-test-39
@@ -502,10 +502,10 @@
 10	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = as-test-50
-# text = ܚܕ݇ ܝܵܘܡܵܐ ܝܵܠܹ̈ܕ݇ܐ ܘ ܒܢܵܬܹ̈ܐ ܕ ܚܕܵܐ ܡܵܬܵܐ ܒܥܹܐܠܗ݇ܘܿܢ ܕ ܛܲܐܠܝܼ ܛܲܫܝܵܐ ܓܵܢܵܐ .
+# text = ܚܕ݇ ܝܵܘܡܵܐ ܝܵܠܹ̈ܕ݇ܐ ܘ ܒܢܵܬܹ̈ܐ ܕ ܚܕܵܐ ܡܵܬܵܐ ܒܥܹܐܠܗ݇ܘܿܢ ܕ ܛܲܐܠܝܼ ܛܲܫܝܵܐ ܓܵܢܵܐ .
 1	ܚܕ݇	ܚܕ݇	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	ܝܵܘܡܵܐ	ܝܵܘܡܵܐ	NOUN	_	Gender=Masc|Number=Sing	9	advcl	_	_
-3	ܝܵܠܹ̈ܕ݇ܐ	ܝܵܠܵܕ݇ܐ	NOUN	_	Number=Plur	9	csubj	_	_
+3	ܝܵܠܹ̈ܕ݇ܐ	ܝܵܠܵܕ݇ܐ	NOUN	_	Number=Plur	9	csubj	_	_
 4	ܘ	ܘ	CCONJ	_	_	5	cc	_	_
 5	ܒܢܵܬܹ̈ܐ	ܒܪܵܬܵܐ	NOUN	_	Number=Plur	3	conj	_	_
 6	ܕ	ܕ	ADP	_	_	8	case	_	_
