@@ -4,15 +4,21 @@ The Uppsala Assyrian Treebank is a small treebank for Modern Standard Assyrian. 
 
 # Introduction
 
-The Uppsala Assyrian Treebank (UAT) is a small treebank which consists of 57 sentences and cirka 380 tokens. The data was randomly collected from different textbooks and a short translation of The Merchant of Venice. 
+The Uppsala Assyrian Treebank (UAT) is a small treebank which consists of 57 sentences and 453 tokens. The data was randomly collected from different textbooks and a short translation of The Merchant of Venice.
 The treebank was manually built and annotated following the UD annotation guidlines.
-This treebank is the very first attempt to building a treebank for the Modern Standard Assyrian language, and since it is a very small treebank, we kept the data in one file as test data. 
+This treebank is the very first attempt to building a treebank for the Modern Standard Assyrian language, and since it is a very small treebank, we kept the data in one file as test data.
 
 We look forward to increasing the size of the treebank and enriching its annotation in the future.
 
 # Acknowledgments
 
 Building the Uppsala Assyrian Treebank was a project conducted by Mary Yako at Uppsala University under the supervision of Joakim Nivre.
+
+
+# Changelog
+
+* 2019-05-15 v2.4
+  * Initial release in Universal Dependencies.
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
