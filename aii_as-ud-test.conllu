@@ -36,7 +36,7 @@
 # text = ܫܘܵܪܵܐ ܠܹܐ ܝܠܹܗ ܦܪܵܚܵܐ .
 1	ܫܘܵܪܵܐ	ܫܘܵܪܵܐ	NOUN	_	Gender=Masc	4	nsubj	_	_
 2	ܠܹܐ	ܠܹܐ	PART	_	_	4	advmod	_	_
-3	ܝܠܹܗ	ܵܗܵܘܹܐ	AUX	_	Gender=Masc|Number=Sing|Person=3|Tense=Pres	4	cop	_	Root=ܗܘܐ
+3	ܝܠܹܗ	ܗܵܘܹܐ	AUX	_	Gender=Masc|Number=Sing|Person=3|Tense=Pres	4	cop	_	Root=ܗܘܐ
 4	ܦܪܵܚܵܐ	ܦܪܵܚܵܐ	NOUN	_	Gender=Masc	0	root	_	_
 5	.	_	PUNCT	_	_	4	punct	_	_
 
