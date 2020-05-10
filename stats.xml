@@ -10,7 +10,7 @@
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
     <test><sentences>57</sentences><tokens>453</tokens><words>453</words><fused>0</fused></test>
   </size>
-  <lemmas unique="241" /><!-- ., ܗܵܘܹܐ, ܘ, ܕ, ?, ܐܵܗܵܐ, ܐܵܢܝܼ, ܠ, ܡܼܢ, ܒ, ܠܵܐ, ,, :, ܐܝܼܣܚܵܩ, ܓܵܘ -->
+  <lemmas unique="240" /><!-- ., ܗܵܘܹܐ, ܘ, ܕ, ?, ܐܵܗܵܐ, ܐܵܢܝܼ, ܠ, ܡܼܢ, ܒ, ܠܵܐ, ,, :, ܐܝܼܣܚܵܩ, ܓܵܘ -->
   <forms unique="254" /><!-- ., ܘ, ܕ, ?, ܝܠܹܗ, ܐܵܗܵܐ, ܐܵܢܝܼ, ܝܠܵܗܿ, ܝ݇ܢܵܐ, ܠ, ܒ, ܠܵܐ, ܠܸܗ, ܩܵܐ, , -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
