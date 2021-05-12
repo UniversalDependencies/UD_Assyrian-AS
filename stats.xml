@@ -56,14 +56,14 @@
     <feat name="Voice" value="Pass" upos="VERB">1</feat><!-- ܡܘܿܫܸܬܝܵܐ -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="26">
+  <deps unique="27">
     <dep name="acl">1</dep>
     <dep name="acl:relcl">2</dep>
     <dep name="advcl">11</dep>
     <dep name="advmod">22</dep>
     <dep name="amod">5</dep>
     <dep name="aux">18</dep>
-    <dep name="aux:poss">1</dep>
+    <dep name="aux:pass">1</dep>
     <dep name="case">43</dep>
     <dep name="cc">25</dep>
     <dep name="ccomp">3</dep>
@@ -77,7 +77,8 @@
     <dep name="nmod">17</dep>
     <dep name="nmod:poss">2</dep>
     <dep name="nsubj">40</dep>
-    <dep name="obj">25</dep>
+    <dep name="nsubj:pass">1</dep>
+    <dep name="obj">24</dep>
     <dep name="obl">16</dep>
     <dep name="parataxis">2</dep>
     <dep name="punct">66</dep>
