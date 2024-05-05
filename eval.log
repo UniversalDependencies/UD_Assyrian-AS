@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit e9726a6a7d6913193d90edb45a4cb549235c5b16
+commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat Nov 4 17:10:55 2023 +0100
+Date:   Sun May 5 09:21:16 2024 +0200
 Evaluating the following revision of UD_Assyrian-AS:
-commit b92a4fdb5a767af814a1bd9107df27f0faf4a2cc
+commit 95c896eca76c7302f60a16942a1454a45d24f4bf
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 9 09:28:38 2023 +0200
+Date:   Mon Nov 6 11:31:04 2023 +0100
 Size: counted 453 of 453 words (nodes).
 Size: min(0, log((N/1000)**2)) = 0.
 Size: maximum value 13.815511 is for 1000000 words or more.
