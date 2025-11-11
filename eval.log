@@ -1,7 +1,51 @@
-Usage:   perl -I ./tools ./tools/evaluate_treebank.pl <ud-treebank-name>
-Example: perl -I ./tools ./tools/evaluate_treebank.pl UD_Czech-PDTC
-Before running, make sure the current folder is one level above the clones of UD GitHub repositories.
-Specifically, the subfolders should include the evaluated treebank(s), as well as the tools folder,
-from which this script is invoked and which also holds the validator.
-$0 == tools/evaluate_treebank.pl
-The script must be invoked using relative path (starting with a dot) from the superordinate folder at tools/evaluate_treebank.pl line 40.
+Running the following version of UD tools:
+commit 26e6c87a2f518322d15901a351199b6be6569062
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Fri Nov 7 15:39:58 2025 +0100
+Evaluating the following revision of UD_Assyrian-AS:
+commit b8d68e7b9a7c8c06fb1acdbd6757010433ec705a
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue Nov 11 18:39:03 2025 +0100
+CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
+Language-treebank code (from CoNLL-U file name) = 'aii_as'
+Language code (from CoNLL-U file name) = 'aii'
+Found the following data files: aii_as-ud-test.conllu
+Size: counted 453 of 453 words (nodes).
+Size: min(0, log((N/1000)**2)) = 0.
+Size: maximum value 13.815511 is for 1000000 words or more.
+Split: Did not find more than 10000 training words.
+Split: Did not find at least 10000 development words.
+Split: Did not find at least 10000 test words.
+Lemmas: source of annotation (from README) factor is 0.8.
+Universal POS tags: 13 out of 17 found in the corpus.
+Universal POS tags: source of annotation (from README) factor is 0.8.
+Features: 244 out of 453 total words have one or more features.
+Features: source of annotation (from README) factor is 0.8.
+Universal relations: 23 out of 37 found in the corpus.
+Universal relations: source of annotation (from README) factor is 0.8.
+Genres: found 2 out of 18 known.
+/net/work/people/zeman/unidep/tools/validate.py --lang aii --max-err=10 UD_Assyrian-AS/aii_as-ud-test.conllu
+[Line 3 Sent as-test-01]: [L3 Warning pron-det-without-prontype] The word 'ܟܠ' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 78 Sent as-test-08]: [L3 Warning pron-det-without-prontype] The word 'ܗ̇ܘ' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 156 Sent as-test-16]: [L3 Warning pron-det-without-prontype] The word 'ܡܘܼܕܝܼ' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 176 Sent as-test-17]: [L3 Warning pron-det-without-prontype] The word 'ܟܸܤܠܵܘܟ̣ܘܿܢ' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 181 Sent as-test-18]: [L3 Warning pron-det-without-prontype] The word 'ܐܲܢܹܐ' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 190 Sent as-test-18]: [L3 Warning obl-should-be-nmod] The parent (node [7] 'ܚܬܘܵܬܝܼ̈') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 206 Sent as-test-20]: [L3 Warning pron-det-without-prontype] The word 'ܐܵܢܵܐ' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 212 Sent as-test-21]: [L3 Warning pron-det-without-prontype] The word 'ܐܸܠܲܟ̣ܘܢ' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 237 Sent as-test-24]: [L3 Warning pron-det-without-prontype] The word 'ܠܗ݇ܘܿܢ' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 475 Sent as-test-48]: [L3 Warning pron-det-without-prontype] The word 'ܐܵܗܵܐ' is tagged 'PRON' but it lacks the 'PronType' feature
+...suppressing further errors regarding Warning
+Warnings: 23
+*** PASSED ***
+Validity: 1
+(weight=0.111111111111111) * (score{features}=0.8) = 0.0888888888888889
+(weight=0.111111111111111) * (score{genres}=0.111111111111111) = 0.0123456790123457
+(weight=0.111111111111111) * (score{lemmas}=0.8) = 0.0888888888888889
+(weight=0.37037037037037) * (score{size}=0) = 0
+(weight=0.0740740740740741) * (score{split}=0.01) = 0.000740740740740741
+(weight=0.111111111111111) * (score{tags}=0.611764705882353) = 0.0679738562091503
+(weight=0.111111111111111) * (score{udeprels}=0.497297297297297) = 0.0552552552552553
+(TOTAL score=0.31409330899527) * (availability=1) * (validity=1) = 0.31409330899527
+STARS = 1.5
+UD_Assyrian-AS	0.31409330899527	1.5
